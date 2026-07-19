@@ -1,16 +1,30 @@
 {
   "storage": "github",
+  "baselineCollectionDays": 30,
+  "lastObservationNumber": 2,
   "currentSnapshot": {
-    "date": "2026-07-18",
-    "path": "data/research-snapshots/2026-07-18.json",
-    "scheduledFor": "2026-07-18T09:15:00+09:00",
-    "capturedAt": "2026-07-18T03:49:31.637Z",
+    "date": "2026-07-19",
+    "path": "data/research-snapshots/2026-07-19.json",
+    "scheduledFor": "2026-07-19T09:15:00+09:00",
+    "capturedAt": "2026-07-19T00:19:05.355Z",
     "timezone": "Asia/Tokyo",
     "source": "Live Bankr Leaderboard",
     "status": "success",
-    "retryCount": 0
+    "baselineCollectionDays": 30,
+    "leaderboardVersion": "top50-v1",
+    "totalUsersCaptured": 50,
+    "top10ProfilesCaptured": 10,
+    "failedProfiles": [],
+    "validation": {
+      "ok": true,
+      "expectedCount": 50,
+      "actualCount": 50,
+      "errors": []
+    },
+    "retryCount": 0,
+    "observationNumber": 2
   },
   "previousSnapshot": null,
-  "diffPath": "data/diffs/2026-07-18.json",
-  "updatedAt": "2026-07-18T03:49:48.000Z"
+  "diffPath": null,
+  "updatedAt": "2026-07-19T00:19:22.917Z"
 }
