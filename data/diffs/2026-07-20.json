@@ -1,0 +1,3488 @@
+{
+  "generatedAt": "2026-07-20T00:19:23.304Z",
+  "oldSnapshot": "data/research-snapshots/2026-07-19.json",
+  "newSnapshot": "data/research-snapshots/2026-07-20.json",
+  "scope": "top50",
+  "summary": {
+    "scope": "top50",
+    "totalUsers": 51,
+    "existingUsers": 49,
+    "newUsers": 1,
+    "exitedUsers": 1,
+    "allNumericDiffsZero": false,
+    "identicalInputPaths": false,
+    "skippedOldUsers": 0,
+    "skippedNewUsers": 0,
+    "duplicateKeys": []
+  },
+  "users": [
+    {
+      "username": "@KarbonKrypto",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1082431986675798016",
+      "status": "existing",
+      "rank": {
+        "old": 42,
+        "new": 43,
+        "change": -1,
+        "direction": "down"
+      },
+      "overallScore": {
+        "old": 0.10932372929254584,
+        "new": 0.10944491987849354,
+        "change": 0.0001211906
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@thatdudeboz",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1204220275543433217",
+      "status": "existing",
+      "rank": {
+        "old": 1,
+        "new": 1,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.33047007572025483,
+        "new": 0.3306161553438507,
+        "change": 0.0001460796
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@lightsnack89",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1214706569817903104",
+      "status": "existing",
+      "rank": {
+        "old": 28,
+        "new": 28,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.13524079308478823,
+        "new": 0.13528925974259506,
+        "change": 0.0000484667
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@0FJAKE",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1220091614904881153",
+      "status": "existing",
+      "rank": {
+        "old": 2,
+        "new": 2,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.3182400994824611,
+        "new": 0.3183190021361585,
+        "change": 0.0000789027
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@AndreaPN",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1302415877292191744",
+      "status": "existing",
+      "rank": {
+        "old": 6,
+        "new": 6,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.2077405954793524,
+        "new": 0.21126329838954375,
+        "change": 0.0035227029
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@bigba_daboom",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1303705681552269315",
+      "status": "existing",
+      "rank": {
+        "old": 40,
+        "new": 40,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.11359066307748109,
+        "new": 0.1135885170497716,
+        "change": -0.000002146
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@d474l355",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1306607632397074434",
+      "status": "existing",
+      "rank": {
+        "old": 12,
+        "new": 12,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.16650153207771554,
+        "new": 0.16649947513799448,
+        "change": -0.0000020569
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@JimmyJames760",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1352348639637630977",
+      "status": "existing",
+      "rank": {
+        "old": 47,
+        "new": 48,
+        "change": -1,
+        "direction": "down"
+      },
+      "overallScore": {
+        "old": 0.1076776989881686,
+        "new": 0.10801415231957275,
+        "change": 0.0003364533
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@ccryptoji",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1377317636233555969",
+      "status": "existing",
+      "rank": {
+        "old": 33,
+        "new": 33,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.12012719672706486,
+        "new": 0.12017586180774988,
+        "change": 0.0000486651
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@ACB_Crypto",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1388656475271155715",
+      "status": "existing",
+      "rank": {
+        "old": 50,
+        "new": 45,
+        "change": 5,
+        "direction": "up"
+      },
+      "overallScore": {
+        "old": 0.10699175860495791,
+        "new": 0.10837543492133538,
+        "change": 0.0013836763
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@0xFrenchie",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1394096609072402434",
+      "status": "existing",
+      "rank": {
+        "old": 20,
+        "new": 20,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.1498230252827573,
+        "new": 0.15007585622343822,
+        "change": 0.0002528309
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@VIPERnftMFER",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1396460088169205760",
+      "status": "existing",
+      "rank": {
+        "old": 32,
+        "new": 32,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.12444550093155697,
+        "new": 0.124586007953488,
+        "change": 0.000140507
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@0xDeployer",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1414021381298089984",
+      "status": "existing",
+      "rank": {
+        "old": 17,
+        "new": 16,
+        "change": 1,
+        "direction": "up"
+      },
+      "overallScore": {
+        "old": 0.1566001072797362,
+        "new": 0.15697345091136117,
+        "change": 0.0003733436
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@CutterDegen",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1455208361084002310",
+      "status": "existing",
+      "rank": {
+        "old": 16,
+        "new": 17,
+        "change": -1,
+        "direction": "down"
+      },
+      "overallScore": {
+        "old": 0.1566321297115917,
+        "new": 0.15663219517340768,
+        "change": 6.55e-8
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@mattrenggana",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/145621088",
+      "status": "existing",
+      "rank": {
+        "old": 39,
+        "new": 39,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.11369856643302517,
+        "new": 0.1137107096467216,
+        "change": 0.0000121432
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@serwellzy",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1458184272817397765",
+      "status": "existing",
+      "rank": {
+        "old": 49,
+        "new": 50,
+        "change": -1,
+        "direction": "down"
+      },
+      "overallScore": {
+        "old": 0.1071222347464092,
+        "new": 0.10722931998962976,
+        "change": 0.0001070852
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@CodinCowboy",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1478443833373302784",
+      "status": "existing",
+      "rank": {
+        "old": 37,
+        "new": 37,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.1141797107415017,
+        "new": 0.11424836166241936,
+        "change": 0.0000686509
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@0xLiamVisionary",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1492889131973754881",
+      "status": "exited",
+      "rank": {
+        "old": 46,
+        "new": null,
+        "change": null,
+        "direction": "out"
+      },
+      "overallScore": {
+        "old": 0.10802740647655705,
+        "new": null,
+        "change": null
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@_seacasa",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1507339377503993862",
+      "status": "existing",
+      "rank": {
+        "old": 13,
+        "new": 13,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.16027026225374433,
+        "new": 0.16159042713765043,
+        "change": 0.0013201649
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@696_eth",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1517919622741127168",
+      "status": "existing",
+      "rank": {
+        "old": 5,
+        "new": 5,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.2414813392973356,
+        "new": 0.24109525091379289,
+        "change": -0.0003860884
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@MrDegenWolf",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1526286750326349828",
+      "status": "existing",
+      "rank": {
+        "old": 9,
+        "new": 9,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.17749633530551845,
+        "new": 0.17754719773396227,
+        "change": 0.0000508624
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@mac_eth",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1533523365054386176",
+      "status": "existing",
+      "rank": {
+        "old": 8,
+        "new": 8,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.17963351640438946,
+        "new": 0.18321211481611602,
+        "change": 0.0035785984
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@alphabetaseth",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1616642944701992965",
+      "status": "existing",
+      "rank": {
+        "old": 11,
+        "new": 11,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.16801754193866436,
+        "new": 0.1680841173253878,
+        "change": 0.0000665754
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@Bossman_Base",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1630289768570388481",
+      "status": "existing",
+      "rank": {
+        "old": 34,
+        "new": 34,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.11910395261193563,
+        "new": 0.11968711955300507,
+        "change": 0.0005831669
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@ai2humannetwork",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1653696891413045250",
+      "status": "existing",
+      "rank": {
+        "old": 23,
+        "new": 23,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.14709993068133861,
+        "new": 0.14709715222319952,
+        "change": -0.0000027785
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@0xthefear",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1745346381672259586",
+      "status": "existing",
+      "rank": {
+        "old": 35,
+        "new": 35,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.11698635757001863,
+        "new": 0.11702051798048148,
+        "change": 0.0000341604
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@dealignai",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1749759735379939328",
+      "status": "existing",
+      "rank": {
+        "old": 25,
+        "new": 25,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.13825104674673946,
+        "new": 0.1382509906241764,
+        "change": -5.61e-8
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@goyagl90",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1769678636070928384",
+      "status": "existing",
+      "rank": {
+        "old": 29,
+        "new": 29,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.13234855088789207,
+        "new": 0.13232502407871768,
+        "change": -0.0000235268
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@dabusthebuilder",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1771956177087176704",
+      "status": "existing",
+      "rank": {
+        "old": 43,
+        "new": 44,
+        "change": -1,
+        "direction": "down"
+      },
+      "overallScore": {
+        "old": 0.10840577838216571,
+        "new": 0.10898457377554865,
+        "change": 0.0005787954
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@smolemaru",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1780970621410643968",
+      "status": "existing",
+      "rank": {
+        "old": 31,
+        "new": 31,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.12712273988209635,
+        "new": 0.12758152120746796,
+        "change": 0.0004587813
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@jun_song",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1831149867663798272",
+      "status": "existing",
+      "rank": {
+        "old": 10,
+        "new": 10,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.17055434129147928,
+        "new": 0.17064579209056352,
+        "change": 0.0000914508
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@0x_SlumPark",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1869530759654244352",
+      "status": "new",
+      "rank": {
+        "old": null,
+        "new": 41,
+        "change": null,
+        "direction": "new"
+      },
+      "overallScore": {
+        "old": null,
+        "new": 0.1124784287348031,
+        "change": null
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@0xDialethia",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1877720748955222016",
+      "status": "existing",
+      "rank": {
+        "old": 4,
+        "new": 4,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.24894082630039993,
+        "new": 0.2488992709765148,
+        "change": -0.0000415553
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@atzebase",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1895460933037682688",
+      "status": "existing",
+      "rank": {
+        "old": 38,
+        "new": 38,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.11414990232316288,
+        "new": 0.1141952080113637,
+        "change": 0.0000453057
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@internbehavior",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1928145495790342145",
+      "status": "existing",
+      "rank": {
+        "old": 19,
+        "new": 19,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.1505837114986857,
+        "new": 0.1505862716438124,
+        "change": 0.0000025601
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@basemateagent",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1939390827220152321",
+      "status": "existing",
+      "rank": {
+        "old": 7,
+        "new": 7,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.1889256086432902,
+        "new": 0.18911376122018309,
+        "change": 0.0001881526
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@ProteanLabs_",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2011246181834502145",
+      "status": "existing",
+      "rank": {
+        "old": 45,
+        "new": 46,
+        "change": -1,
+        "direction": "down"
+      },
+      "overallScore": {
+        "old": 0.10821386026014358,
+        "new": 0.10828800068529378,
+        "change": 0.0000741404
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@Inner_Axiom",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2018413989961809920",
+      "status": "existing",
+      "rank": {
+        "old": 22,
+        "new": 22,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.14901574511413962,
+        "new": 0.14899031604654261,
+        "change": -0.0000254291
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@Rayblancoeth",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2019136812766097408",
+      "status": "existing",
+      "rank": {
+        "old": 14,
+        "new": 14,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.15895878088222107,
+        "new": 0.15903472490093543,
+        "change": 0.000075944
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@JunoAgent",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2019712171672760320",
+      "status": "existing",
+      "rank": {
+        "old": 21,
+        "new": 21,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.1497698800536512,
+        "new": 0.14977266916331303,
+        "change": 0.0000027891
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@blockyagent",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2032028263716114432",
+      "status": "existing",
+      "rank": {
+        "old": 24,
+        "new": 24,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.14585564753859698,
+        "new": 0.1458300725413106,
+        "change": -0.000025575
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@VeniceKernel",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2044884323447304195",
+      "status": "existing",
+      "rank": {
+        "old": 41,
+        "new": 42,
+        "change": -1,
+        "direction": "down"
+      },
+      "overallScore": {
+        "old": 0.11217866792558465,
+        "new": 0.1121791442442583,
+        "change": 4.763e-7
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@revaultdrops",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2047905884831879169",
+      "status": "existing",
+      "rank": {
+        "old": 30,
+        "new": 30,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.12768743110843528,
+        "new": 0.12769420066014744,
+        "change": 0.0000067696
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@0xCR33P",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2056269437582376960",
+      "status": "existing",
+      "rank": {
+        "old": 36,
+        "new": 36,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.11491480537286676,
+        "new": 0.11487633715328541,
+        "change": -0.0000384682
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@meowhood_",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2075033523074015232",
+      "status": "existing",
+      "rank": {
+        "old": 48,
+        "new": 49,
+        "change": -1,
+        "direction": "down"
+      },
+      "overallScore": {
+        "old": 0.10735486864961519,
+        "new": 0.10748670368062443,
+        "change": 0.000131835
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@tekkaadan",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/210297577",
+      "status": "existing",
+      "rank": {
+        "old": 15,
+        "new": 15,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.1588322017854917,
+        "new": 0.15899590670752983,
+        "change": 0.0001637049
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@MLeeJr",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/22681084",
+      "status": "existing",
+      "rank": {
+        "old": 44,
+        "new": 47,
+        "change": -3,
+        "direction": "down"
+      },
+      "overallScore": {
+        "old": 0.10826116295178842,
+        "new": 0.10826248141785935,
+        "change": 0.0000013185
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@1Nzz_",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2333455251",
+      "status": "existing",
+      "rank": {
+        "old": 26,
+        "new": 26,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.1379785877385167,
+        "new": 0.13797855242722704,
+        "change": -3.53e-8
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@tylerbroqs",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2511088279",
+      "status": "existing",
+      "rank": {
+        "old": 27,
+        "new": 27,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.1354324622761178,
+        "new": 0.13548212920028993,
+        "change": 0.0000496669
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@matthewvarnell",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/3039243742",
+      "status": "existing",
+      "rank": {
+        "old": 3,
+        "new": 3,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.2695144438780464,
+        "new": 0.2697598836424351,
+        "change": 0.0002454398
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    },
+    {
+      "username": "@QuigleyNFT",
+      "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/929050108523679745",
+      "status": "existing",
+      "rank": {
+        "old": 18,
+        "new": 18,
+        "change": 0,
+        "direction": "unchanged"
+      },
+      "overallScore": {
+        "old": 0.1529954316230856,
+        "new": 0.1530656858529405,
+        "change": 0.0000702542
+      },
+      "scores": {
+        "$BNKR": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Deployer": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Builder": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "PNL": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Referral": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "NFTs": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Ecosystem": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "LLM Gateway": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "Social": {
+          "old": null,
+          "new": null,
+          "change": null
+        },
+        "OG": {
+          "old": null,
+          "new": null,
+          "changed": false
+        }
+      }
+    }
+  ]
+}
