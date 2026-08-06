@@ -1,0 +1,5110 @@
+{
+  "scheduledFor": "2026-08-06T09:15:00+09:00",
+  "capturedAt": "2026-08-06T00:53:45.702Z",
+  "timezone": "Asia/Tokyo",
+  "source": "Live Bankr Leaderboard",
+  "status": "success",
+  "baselineCollectionDays": 30,
+  "leaderboardVersion": "top50-v1",
+  "totalUsersCaptured": 50,
+  "leaderboard": {
+    "top50": [
+      {
+        "rank": 1,
+        "accountId": "3039243742",
+        "username": "@matthewvarnell",
+        "overallScore": 0.3504347687238283,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/3039243742"
+      },
+      {
+        "rank": 2,
+        "accountId": "1220091614904881153",
+        "username": "@0FJAKE",
+        "overallScore": 0.3442114793863665,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1220091614904881153"
+      },
+      {
+        "rank": 3,
+        "accountId": "1204220275543433217",
+        "username": "@thatdudeboz",
+        "overallScore": 0.32113561328383633,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1204220275543433217"
+      },
+      {
+        "rank": 4,
+        "accountId": "1302415877292191744",
+        "username": "@AndreaPN",
+        "overallScore": 0.2903507887669638,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1302415877292191744"
+      },
+      {
+        "rank": 5,
+        "accountId": "2019136812766097408",
+        "username": "@Rayblancoeth",
+        "overallScore": 0.2412307147654609,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2019136812766097408"
+      },
+      {
+        "rank": 6,
+        "accountId": "1533523365054386176",
+        "username": "@mac_eth",
+        "overallScore": 0.223407404414943,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1533523365054386176"
+      },
+      {
+        "rank": 7,
+        "accountId": "1780970621410643968",
+        "username": "@smolemaru",
+        "overallScore": 0.20170235970882097,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1780970621410643968"
+      },
+      {
+        "rank": 8,
+        "accountId": "1939390827220152321",
+        "username": "@basemateagent",
+        "overallScore": 0.20079202689649897,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1939390827220152321"
+      },
+      {
+        "rank": 9,
+        "accountId": "1653696891413045250",
+        "username": "@ai2humannetwork",
+        "overallScore": 0.19665777135424262,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1653696891413045250"
+      },
+      {
+        "rank": 10,
+        "accountId": "2019712171672760320",
+        "username": "@JunoAgent",
+        "overallScore": 0.1953365056958201,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2019712171672760320"
+      },
+      {
+        "rank": 11,
+        "accountId": "2010433319499190273",
+        "username": "@bnkingbad",
+        "overallScore": 0.19462625261195055,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2010433319499190273"
+      },
+      {
+        "rank": 12,
+        "accountId": "1414021381298089984",
+        "username": "@0xDeployer",
+        "overallScore": 0.193563113782826,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1414021381298089984"
+      },
+      {
+        "rank": 13,
+        "accountId": "1895460933037682688",
+        "username": "@atzebase",
+        "overallScore": 0.1925996807383001,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1895460933037682688"
+      },
+      {
+        "rank": 14,
+        "accountId": "1591047339229290502",
+        "username": "@superminter",
+        "overallScore": 0.19096000413489422,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1591047339229290502"
+      },
+      {
+        "rank": 15,
+        "accountId": "1507339377503993862",
+        "username": "@_seacasa",
+        "overallScore": 0.19024880999726398,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1507339377503993862"
+      },
+      {
+        "rank": 16,
+        "accountId": "1169934284037251072",
+        "username": "@0x_swag",
+        "overallScore": 0.18860929210003435,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1169934284037251072"
+      },
+      {
+        "rank": 17,
+        "accountId": "1893272258971680768",
+        "username": "@PrehensileThumb",
+        "overallScore": 0.18747141118929922,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1893272258971680768"
+      },
+      {
+        "rank": 18,
+        "accountId": "1869530759654244352",
+        "username": "@0x_SlumPark",
+        "overallScore": 0.18472550401950588,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1869530759654244352"
+      },
+      {
+        "rank": 19,
+        "accountId": "1695249654399864838",
+        "username": "@GenuineRealMoe",
+        "overallScore": 0.1785159479742684,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1695249654399864838"
+      },
+      {
+        "rank": 20,
+        "accountId": "1526286750326349828",
+        "username": "@MrDegenWolf",
+        "overallScore": 0.17515298513054484,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1526286750326349828"
+      },
+      {
+        "rank": 21,
+        "accountId": "1352348639637630977",
+        "username": "@JimmyJames760",
+        "overallScore": 0.16722123059010718,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1352348639637630977"
+      },
+      {
+        "rank": 22,
+        "accountId": "34334492",
+        "username": "@iamheci",
+        "overallScore": 0.1620630834117141,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/34334492"
+      },
+      {
+        "rank": 23,
+        "accountId": "929050108523679745",
+        "username": "@QuigleyNFT",
+        "overallScore": 0.15983626707240198,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/929050108523679745"
+      },
+      {
+        "rank": 24,
+        "accountId": "1616642944701992965",
+        "username": "@alphabetaseth",
+        "overallScore": 0.15757514033857492,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1616642944701992965"
+      },
+      {
+        "rank": 25,
+        "accountId": "1831149867663798272",
+        "username": "@jun_song",
+        "overallScore": 0.1545116619853438,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1831149867663798272"
+      },
+      {
+        "rank": 26,
+        "accountId": "210297577",
+        "username": "@tekkaadan",
+        "overallScore": 0.15437848027842416,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/210297577"
+      },
+      {
+        "rank": 27,
+        "accountId": "1877720748955222016",
+        "username": "@0xDialethia",
+        "overallScore": 0.1537196631254269,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1877720748955222016"
+      },
+      {
+        "rank": 28,
+        "accountId": "1757014010724077568",
+        "username": "@Dos5se",
+        "overallScore": 0.1517132982203494,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1757014010724077568"
+      },
+      {
+        "rank": 29,
+        "accountId": "1082431986675798016",
+        "username": "@KarbonKrypto",
+        "overallScore": 0.1486157268107025,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1082431986675798016"
+      },
+      {
+        "rank": 30,
+        "accountId": "1306607632397074434",
+        "username": "@d474l355",
+        "overallScore": 0.14351075787466724,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1306607632397074434"
+      },
+      {
+        "rank": 31,
+        "accountId": "1455208361084002310",
+        "username": "@CutterDegen",
+        "overallScore": 0.14284721773598058,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1455208361084002310"
+      },
+      {
+        "rank": 32,
+        "accountId": "1433913495079165952",
+        "username": "@HeresMyEth",
+        "overallScore": 0.140760835788381,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1433913495079165952"
+      },
+      {
+        "rank": 33,
+        "accountId": "2511088279",
+        "username": "@tylerbroqs",
+        "overallScore": 0.13894972839403846,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2511088279"
+      },
+      {
+        "rank": 34,
+        "accountId": "1214706569817903104",
+        "username": "@lightsnack89",
+        "overallScore": 0.1388151664657299,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1214706569817903104"
+      },
+      {
+        "rank": 35,
+        "accountId": "1639779124280455168",
+        "username": "@panzonhl",
+        "overallScore": 0.13724739442783948,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1639779124280455168"
+      },
+      {
+        "rank": 36,
+        "accountId": "1052847943185661952",
+        "username": "@apex_ether",
+        "overallScore": 0.13353468139624444,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1052847943185661952"
+      },
+      {
+        "rank": 37,
+        "accountId": "2056269437582376960",
+        "username": "@0xCR33P",
+        "overallScore": 0.13130541570049975,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2056269437582376960"
+      },
+      {
+        "rank": 38,
+        "accountId": "1394096609072402434",
+        "username": "@0xFrenchie",
+        "overallScore": 0.1302378515125869,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1394096609072402434"
+      },
+      {
+        "rank": 39,
+        "accountId": "1749759735379939328",
+        "username": "@dealignai",
+        "overallScore": 0.12932131430091834,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1749759735379939328"
+      },
+      {
+        "rank": 40,
+        "accountId": "1377317636233555969",
+        "username": "@ccryptoji",
+        "overallScore": 0.12910421513512854,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1377317636233555969"
+      },
+      {
+        "rank": 41,
+        "accountId": "1388656475271155715",
+        "username": "@ACB_Crypto",
+        "overallScore": 0.12550061094540482,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1388656475271155715"
+      },
+      {
+        "rank": 42,
+        "accountId": "221838349",
+        "username": "@Austen",
+        "overallScore": 0.12433885685072718,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/221838349"
+      },
+      {
+        "rank": 43,
+        "accountId": "32609740",
+        "username": "@eviszen",
+        "overallScore": 0.11971027527704381,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/32609740"
+      },
+      {
+        "rank": 44,
+        "accountId": "1771956177087176704",
+        "username": "@dabusthebuilder",
+        "overallScore": 0.11710733629051803,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1771956177087176704"
+      },
+      {
+        "rank": 45,
+        "accountId": "145621088",
+        "username": "@mattrenggana",
+        "overallScore": 0.11520244978502445,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/145621088"
+      },
+      {
+        "rank": 46,
+        "accountId": "1460254014491086854",
+        "username": "@MeltedMindz",
+        "overallScore": 0.1139662175246477,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1460254014491086854"
+      },
+      {
+        "rank": 47,
+        "accountId": "1754942575537004544",
+        "username": "@0xKreative",
+        "overallScore": 0.11315909115840263,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1754942575537004544"
+      },
+      {
+        "rank": 48,
+        "accountId": "1303705681552269315",
+        "username": "@bigba_daboom",
+        "overallScore": 0.11185083680553486,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1303705681552269315"
+      },
+      {
+        "rank": 49,
+        "accountId": "1396460088169205760",
+        "username": "@VIPERnftMFER",
+        "overallScore": 0.1087504576424091,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1396460088169205760"
+      },
+      {
+        "rank": 50,
+        "accountId": "2044884323447304195",
+        "username": "@VeniceKernel",
+        "overallScore": 0.10875020579169327,
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2044884323447304195"
+      }
+    ]
+  },
+  "profiles": {
+    "top50": [
+      {
+        "rank": 1,
+        "accountId": "3039243742",
+        "username": "@matthewvarnell",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/3039243742",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.3504347687238283,
+          "score": 0.3504347687238283,
+          "available": true
+        },
+        "overallScore": 0.3504347687238283,
+        "categories": {
+          "bnkr": {
+            "raw": 408289.0794430278,
+            "score": 0.9467807334297667,
+            "available": true
+          },
+          "deployer": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "developer": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 2,
+            "score": 0.07142857142857142,
+            "available": true
+          },
+          "partner": {
+            "raw": 1424.8245115891154,
+            "score": 0.060574753822804375,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0.9286034999999999,
+            "score": 0.12973206679004554,
+            "available": true
+          },
+          "social": {
+            "raw": 0.5909845105497755,
+            "score": 0.40874781514596903,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 2,
+        "accountId": "1220091614904881153",
+        "username": "@0FJAKE",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1220091614904881153",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.3442114793863665,
+          "score": 0.3442114793863665,
+          "available": true
+        },
+        "overallScore": 0.3442114793863665,
+        "categories": {
+          "bnkr": {
+            "raw": 2180.1686426494225,
+            "score": 0.005055588724792791,
+            "available": true
+          },
+          "deployer": {
+            "raw": 63953.37916223566,
+            "score": 1,
+            "available": true
+          },
+          "developer": {
+            "raw": 31976.68958111783,
+            "score": 0.7899403219656457,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 1.2889973808193143,
+            "score": 0.00005480022163170516,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0.6768181777161771,
+            "score": 0.45500071014387744,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 3,
+        "accountId": "1204220275543433217",
+        "username": "@thatdudeboz",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1204220275543433217",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.32113561328383633,
+          "score": 0.32113561328383633,
+          "available": true
+        },
+        "overallScore": 0.32113561328383633,
+        "categories": {
+          "bnkr": {
+            "raw": 431239.31975672714,
+            "score": 1,
+            "available": true
+          },
+          "deployer": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "developer": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 2,
+            "score": 0.07142857142857142,
+            "available": true
+          },
+          "partner": {
+            "raw": 2200.701159508437,
+            "score": 0.09356024541303383,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 4,
+        "accountId": "1302415877292191744",
+        "username": "@AndreaPN",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1302415877292191744",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.2903507887669638,
+          "score": 0.2903507887669638,
+          "available": true
+        },
+        "overallScore": 0.2903507887669638,
+        "categories": {
+          "bnkr": {
+            "raw": 24571.46840068539,
+            "score": 0.056978729153331305,
+            "available": true
+          },
+          "deployer": {
+            "raw": 22565.432218218095,
+            "score": 0.7066321397983343,
+            "available": true
+          },
+          "developer": {
+            "raw": 11352.171145274755,
+            "score": 0.5593402759158325,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 166.7294701833758,
+            "score": 0.00708830914208547,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 26.807335,
+            "score": 0.6692501129008458,
+            "available": true
+          },
+          "social": {
+            "raw": 0.5171556625471698,
+            "score": 0.36692200456022517,
+            "available": true
+          },
+          "og": {
+            "raw": 1,
+            "score": 0.5,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 5,
+        "accountId": "2019136812766097408",
+        "username": "@rayblanco.eth",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2019136812766097408",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.2412307147654609,
+          "score": 0.2412307147654609,
+          "available": true
+        },
+        "overallScore": 0.2412307147654609,
+        "categories": {
+          "bnkr": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "deployer": {
+            "raw": 25279.90114806387,
+            "score": 0.7339006825179072,
+            "available": true
+          },
+          "developer": {
+            "raw": 11482.980689119238,
+            "score": 0.5614804773923323,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 24.152549487156424,
+            "score": 0.0010268174975077238,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 30.120478000000002,
+            "score": 0.6920087510415196,
+            "available": true
+          },
+          "social": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "og": {
+            "raw": 1,
+            "score": 0.5,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 6,
+        "accountId": "1533523365054386176",
+        "username": "@mac_eth",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1533523365054386176",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.223407404414943,
+          "score": 0.223407404414943,
+          "available": true
+        },
+        "overallScore": 0.223407404414943,
+        "categories": {
+          "bnkr": {
+            "raw": 94.42741194734216,
+            "score": 0.00021896753756269494,
+            "available": true
+          },
+          "deployer": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "developer": {
+            "raw": 64871.00900270649,
+            "score": 1,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 126.00974532360306,
+            "score": 0.005357157488635838,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 19.57521,
+            "score": 0.6083508953680979,
+            "available": true
+          },
+          "social": {
+            "raw": 0.41810377637742535,
+            "score": 0.3074902759742011,
+            "available": true
+          },
+          "og": {
+            "raw": 1,
+            "score": 0.5,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 7,
+        "accountId": "1780970621410643968",
+        "username": "@smolemaru",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1780970621410643968",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.20170235970882097,
+          "score": 0.20170235970882097,
+          "available": true
+        },
+        "overallScore": 0.20170235970882097,
+        "categories": {
+          "bnkr": {
+            "raw": 7.843453123532981,
+            "score": 0.000018188167832093024,
+            "available": true
+          },
+          "deployer": {
+            "raw": 2853.85372808111,
+            "score": 0.3546958205330487,
+            "available": true
+          },
+          "developer": {
+            "raw": 27.443348294313544,
+            "score": 0.07506926230774058,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 6.360851784280697,
+            "score": 0.0002704242015786308,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 141.7675585,
+            "score": 1,
+            "available": true
+          },
+          "social": {
+            "raw": 1.2408225708644323,
+            "score": 0.7102254339283381,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 8,
+        "accountId": "1939390827220152321",
+        "username": "@basemateagent",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1939390827220152321",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.20079202689649897,
+          "score": 0.20079202689649897,
+          "available": true
+        },
+        "overallScore": 0.20079202689649897,
+        "categories": {
+          "bnkr": {
+            "raw": 3716.037384043795,
+            "score": 0.008617111691346014,
+            "available": true
+          },
+          "deployer": {
+            "raw": 10477.839831573125,
+            "score": 0.5471873972911816,
+            "available": true
+          },
+          "developer": {
+            "raw": 5338.910687612952,
+            "score": 0.43497804225137016,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 11.09415294359628,
+            "score": 0.00047165498485239485,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 1.116568,
+            "score": 0.14853475395448862,
+            "available": true
+          },
+          "social": {
+            "raw": 0.39500924237571755,
+            "score": 0.29303691160095224,
+            "available": true
+          },
+          "og": {
+            "raw": 1,
+            "score": 0.5,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 9,
+        "accountId": "1653696891413045250",
+        "username": "@ai2humannetwork",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1653696891413045250",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.19665777135424262,
+          "score": 0.19665777135424262,
+          "available": true
+        },
+        "overallScore": 0.19665777135424262,
+        "categories": {
+          "bnkr": {
+            "raw": 3.244966024309855,
+            "score": 0.000007524745253147188,
+            "available": true
+          },
+          "deployer": {
+            "raw": 4905.440797752811,
+            "score": 0.4248851123691866,
+            "available": true
+          },
+          "developer": {
+            "raw": 2452.7203988764054,
+            "score": 0.33563388246332476,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 26.232393313593622,
+            "score": 0.0011152396342351443,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 118.2981745,
+            "score": 0.9636901284707624,
+            "available": true
+          },
+          "social": {
+            "raw": 0.4825720839743275,
+            "score": 0.34662441322852783,
+            "available": true
+          },
+          "og": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 10,
+        "accountId": "2019712171672760320",
+        "username": "@JunoAgent",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2019712171672760320",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.1953365056958201,
+          "score": 0.1953365056958201,
+          "available": true
+        },
+        "overallScore": 0.1953365056958201,
+        "categories": {
+          "bnkr": {
+            "raw": 27.99275730764507,
+            "score": 0.00006491234918800188,
+            "available": true
+          },
+          "deployer": {
+            "raw": 13713.238526894096,
+            "score": 0.5985386198006012,
+            "available": true
+          },
+          "developer": {
+            "raw": 13751.596508471335,
+            "score": 0.5962579134998293,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 715.906031120687,
+            "score": 0.03043591069824477,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0.08120446261204799,
+            "score": 0.06872628297520231,
+            "available": true
+          },
+          "og": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 11,
+        "accountId": "2010433319499190273",
+        "username": "@bnkingbad",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2010433319499190273",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.19462625261195055,
+          "score": 0.19462625261195055,
+          "available": true
+        },
+        "overallScore": 0.19462625261195055,
+        "categories": {
+          "bnkr": {
+            "raw": 184481.48364226086,
+            "score": 0.42779374512122753,
+            "available": true
+          },
+          "deployer": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "developer": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 2281.5240573004676,
+            "score": 0.09699633673317654,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 14.169926,
+            "score": 0.5467320877035288,
+            "available": true
+          },
+          "social": {
+            "raw": 0.5099831306229063,
+            "score": 0.36275064006327823,
+            "available": true
+          },
+          "og": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 12,
+        "accountId": "1414021381298089984",
+        "username": "@deployer",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1414021381298089984",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.193563113782826,
+          "score": 0.193563113782826,
+          "available": true
+        },
+        "overallScore": 0.193563113782826,
+        "categories": {
+          "bnkr": {
+            "raw": 910.1513763484433,
+            "score": 0.0021105482145317416,
+            "available": true
+          },
+          "deployer": {
+            "raw": 1011.1019087986117,
+            "score": 0.2509827139899452,
+            "available": true
+          },
+          "developer": {
+            "raw": 4373.9837334825115,
+            "score": 0.4070135211205929,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 1,
+            "score": 0.03571428571428571,
+            "available": true
+          },
+          "partner": {
+            "raw": 2521.4952627210496,
+            "score": 0.10719843290339266,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 12.869322,
+            "score": 0.5286095701054104,
+            "available": true
+          },
+          "social": {
+            "raw": 0.5506379686692562,
+            "score": 0.38613714830775975,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 13,
+        "accountId": "1895460933037682688",
+        "username": "@atzebase",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1895460933037682688",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.1925996807383001,
+          "score": 0.1925996807383001,
+          "available": true
+        },
+        "overallScore": 0.1925996807383001,
+        "categories": {
+          "bnkr": {
+            "raw": 67.55147885590384,
+            "score": 0.0001566449898260931,
+            "available": true
+          },
+          "deployer": {
+            "raw": 1646.5131576954511,
+            "score": 0.29527991216160754,
+            "available": true
+          },
+          "developer": {
+            "raw": 837.2402493316109,
+            "score": 0.2345667668470635,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 1,
+            "score": 0.03571428571428571,
+            "available": true
+          },
+          "partner": {
+            "raw": 3466.2563290757926,
+            "score": 0.14736384874957376,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 1.4139245347039493,
+            "score": 0.7757257507947355,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 14,
+        "accountId": "1591047339229290502",
+        "username": "@superminter",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1591047339229290502",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.19096000413489422,
+          "score": 0.19096000413489422,
+          "available": true
+        },
+        "overallScore": 0.19096000413489422,
+        "categories": {
+          "bnkr": {
+            "raw": 1473.524367136268,
+            "score": 0.003416952721211785,
+            "available": true
+          },
+          "deployer": {
+            "raw": 372.70255634812617,
+            "score": 0.1799559835885655,
+            "available": true
+          },
+          "developer": {
+            "raw": 268.93176772558644,
+            "score": 0.1606437441857218,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 2,
+            "score": 0.07142857142857142,
+            "available": true
+          },
+          "partner": {
+            "raw": 56.039342850639585,
+            "score": 0.00238244736103202,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 27.329866000000003,
+            "score": 0.6730140470441637,
+            "available": true
+          },
+          "social": {
+            "raw": 1.6167410066657621,
+            "score": 0.8467408036644519,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 15,
+        "accountId": "1507339377503993862",
+        "username": "@_seacasa",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1507339377503993862",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.19024880999726398,
+          "score": 0.19024880999726398,
+          "available": true
+        },
+        "overallScore": 0.19024880999726398,
+        "categories": {
+          "bnkr": {
+            "raw": 114461.15462325355,
+            "score": 0.2654237435673165,
+            "available": true
+          },
+          "deployer": {
+            "raw": 12.139529201994169,
+            "score": 0.05747065089432336,
+            "available": true
+          },
+          "developer": {
+            "raw": 24.81470635453601,
+            "score": 0.07259156550072801,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 1,
+            "score": 0.03571428571428571,
+            "available": true
+          },
+          "partner": {
+            "raw": 5906.184527071739,
+            "score": 0.2510945529428102,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 2.676154,
+            "score": 0.2601525014329879,
+            "available": true
+          },
+          "social": {
+            "raw": 0.5853127954833792,
+            "score": 0.4056041890043463,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 16,
+        "accountId": "1169934284037251072",
+        "username": "@0x_swag",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1169934284037251072",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.18860929210003435,
+          "score": 0.18860929210003435,
+          "available": true
+        },
+        "overallScore": 0.18860929210003435,
+        "categories": {
+          "bnkr": {
+            "raw": 164518.1882,
+            "score": 0.38150089906645995,
+            "available": true
+          },
+          "deployer": {
+            "raw": 4.9694438566725445,
+            "score": 0.042672501002178446,
+            "available": true
+          },
+          "developer": {
+            "raw": 2.4847219283362723,
+            "score": 0.03370872918074018,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 1,
+            "score": 0.03571428571428571,
+            "available": true
+          },
+          "partner": {
+            "raw": 231.6529016715776,
+            "score": 0.00984845317929279,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0.8198000760590451,
+            "score": 0.527030516729464,
+            "available": true
+          },
+          "og": {
+            "raw": 1,
+            "score": 0.5,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 17,
+        "accountId": "1893272258971680768",
+        "username": "@PrehensileThumb",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1893272258971680768",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.18747141118929922,
+          "score": 0.18747141118929922,
+          "available": true
+        },
+        "overallScore": 0.18747141118929922,
+        "categories": {
+          "bnkr": {
+            "raw": 136721.4581481096,
+            "score": 0.3170431170915435,
+            "available": true
+          },
+          "deployer": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "developer": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 2,
+            "score": 0.07142857142857142,
+            "available": true
+          },
+          "partner": {
+            "raw": 1419.1115550373759,
+            "score": 0.06033187413207247,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 6.2625895,
+            "score": 0.39781065980308017,
+            "available": true
+          },
+          "social": {
+            "raw": 0.7753211228522414,
+            "score": 0.5052483863353818,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 18,
+        "accountId": "1869530759654244352",
+        "username": "@slumpark.base.eth",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1869530759654244352",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.18472550401950588,
+          "score": 0.18472550401950588,
+          "available": true
+        },
+        "overallScore": 0.18472550401950588,
+        "categories": {
+          "bnkr": {
+            "raw": 3409.4331853800595,
+            "score": 0.00790612782550396,
+            "available": true
+          },
+          "deployer": {
+            "raw": 3120.9953370278436,
+            "score": 0.36543477640960537,
+            "available": true
+          },
+          "developer": {
+            "raw": 1560.4826554509525,
+            "score": 0.28867073919136155,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 1,
+            "score": 0.03571428571428571,
+            "available": true
+          },
+          "partner": {
+            "raw": 161.22791508622944,
+            "score": 0.006854416937858471,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0.9711011513527368,
+            "score": 0.5973324839685216,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 19,
+        "accountId": "1695249654399864838",
+        "username": "@GenuineRealMoe",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1695249654399864838",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.1785159479742684,
+          "score": 0.1785159479742684,
+          "available": true
+        },
+        "overallScore": 0.1785159479742684,
+        "categories": {
+          "bnkr": {
+            "raw": 13738.672782961738,
+            "score": 0.03185858096314609,
+            "available": true
+          },
+          "deployer": {
+            "raw": 18.862973608524797,
+            "score": 0.0665654522273126,
+            "available": true
+          },
+          "developer": {
+            "raw": 9.431486804262398,
+            "score": 0.05258273476423212,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 3,
+            "score": 0.10714285714285714,
+            "available": true
+          },
+          "partner": {
+            "raw": 20526.973681321353,
+            "score": 0.87268036685194,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 7.0327945,
+            "score": 0.4181896000185576,
+            "available": true
+          },
+          "social": {
+            "raw": 0.5710520212871165,
+            "score": 0.39764999762066705,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 20,
+        "accountId": "1526286750326349828",
+        "username": "@MrDegenWolf",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1526286750326349828",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.17515298513054484,
+          "score": 0.17515298513054484,
+          "available": true
+        },
+        "overallScore": 0.17515298513054484,
+        "categories": {
+          "bnkr": {
+            "raw": 255.98616513923417,
+            "score": 0.000593605808680995,
+            "available": true
+          },
+          "deployer": {
+            "raw": 4546.134706414238,
+            "score": 0.414247218673043,
+            "available": true
+          },
+          "developer": {
+            "raw": 2212.7538744306908,
+            "score": 0.3243103574964468,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 37.065363379681735,
+            "score": 0.0015757907333955787,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 1.265945,
+            "score": 0.16232261683596227,
+            "available": true
+          },
+          "social": {
+            "raw": 0.4750324144085157,
+            "score": 0.3421364392829028,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 21,
+        "accountId": "1352348639637630977",
+        "username": "@JimmyJames760",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1352348639637630977",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.16722123059010718,
+          "score": 0.16722123059010718,
+          "available": true
+        },
+        "overallScore": 0.16722123059010718,
+        "categories": {
+          "bnkr": {
+            "raw": 14650.695965050572,
+            "score": 0.03397346970428252,
+            "available": true
+          },
+          "deployer": {
+            "raw": 35.610085472092166,
+            "score": 0.08226905457546461,
+            "available": true
+          },
+          "developer": {
+            "raw": 31.7042617922407,
+            "score": 0.07876906024615903,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 3,
+            "score": 0.10714285714285714,
+            "available": true
+          },
+          "partner": {
+            "raw": 68.95498808042097,
+            "score": 0.00293154096792408,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 15.183221,
+            "score": 0.5598050558787587,
+            "available": true
+          },
+          "social": {
+            "raw": 1.5863125012573667,
+            "score": 0.836444900442677,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 22,
+        "accountId": "34334492",
+        "username": "@iamheci",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/34334492",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.1620630834117141,
+          "score": 0.1620630834117141,
+          "available": true
+        },
+        "overallScore": 0.1620630834117141,
+        "categories": {
+          "bnkr": {
+            "raw": 3.2969444915280013,
+            "score": 0.00000764527801729186,
+            "available": true
+          },
+          "deployer": {
+            "raw": 6769.883195514073,
+            "score": 0.4730487432185589,
+            "available": true
+          },
+          "developer": {
+            "raw": 3384.924119081189,
+            "score": 0.37367963333686977,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 1.9424582203349647,
+            "score": 0.00008258134777358784,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 10.050359,
+            "score": 0.4826709535586614,
+            "available": true
+          },
+          "social": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "og": {
+            "raw": 1,
+            "score": 0.5,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 23,
+        "accountId": "929050108523679745",
+        "username": "@QuigleyNFT",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/929050108523679745",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.15983626707240198,
+          "score": 0.15983626707240198,
+          "available": true
+        },
+        "overallScore": 0.15983626707240198,
+        "categories": {
+          "bnkr": {
+            "raw": 261.14846040785466,
+            "score": 0.000605576644901432,
+            "available": true
+          },
+          "deployer": {
+            "raw": 3383.2486215706735,
+            "score": 0.37539643067816286,
+            "available": true
+          },
+          "developer": {
+            "raw": 1683.5930322688807,
+            "score": 0.2960707398181182,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 1,
+            "score": 0.03571428571428571,
+            "available": true
+          },
+          "partner": {
+            "raw": 275.80525193854095,
+            "score": 0.01172553890203673,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0.47911282086682716,
+            "score": 0.34456813388722496,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 24,
+        "accountId": "1616642944701992965",
+        "username": "@alphabetas",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1616642944701992965",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.15757514033857492,
+          "score": 0.15757514033857492,
+          "available": true
+        },
+        "overallScore": 0.15757514033857492,
+        "categories": {
+          "bnkr": {
+            "raw": 6.583164371403618e-15,
+            "score": 1.5265686753975368e-20,
+            "available": true
+          },
+          "deployer": {
+            "raw": 29319.9715627443,
+            "score": 0.7710810250648993,
+            "available": true
+          },
+          "developer": {
+            "raw": 76.64486009818378,
+            "score": 0.10571682893102538,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 5.663356485223192,
+            "score": 0.00024077100170080915,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0.1461753714738882,
+            "score": 0.12009338296919095,
+            "available": true
+          },
+          "og": {
+            "raw": 1,
+            "score": 0.5,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 25,
+        "accountId": "1831149867663798272",
+        "username": "@jun_song",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1831149867663798272",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.1545116619853438,
+          "score": 0.1545116619853438,
+          "available": true
+        },
+        "overallScore": 0.1545116619853438,
+        "categories": {
+          "bnkr": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "deployer": {
+            "raw": 661.4073726158387,
+            "score": 0.21787221314918875,
+            "available": true
+          },
+          "developer": {
+            "raw": 30207.24380546316,
+            "score": 0.7750924072815528,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 14.847757069644299,
+            "score": 0.0006312350903560757,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "og": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 26,
+        "accountId": "210297577",
+        "username": "@tekkaadan",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/210297577",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.15437848027842416,
+          "score": 0.15437848027842416,
+          "available": true
+        },
+        "overallScore": 0.15437848027842416,
+        "categories": {
+          "bnkr": {
+            "raw": 75.330844928734,
+            "score": 0.00017468454632390664,
+            "available": true
+          },
+          "deployer": {
+            "raw": 9319.241882775666,
+            "score": 0.5262260731800253,
+            "available": true
+          },
+          "developer": {
+            "raw": 4661.049336859502,
+            "score": 0.41572966530120153,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 16.61799663437006,
+            "score": 0.0007064947626655132,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0.08987749500158486,
+            "score": 0.075759179565963,
+            "available": true
+          },
+          "og": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 27,
+        "accountId": "1877720748955222016",
+        "username": "@dialethia.eth",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1877720748955222016",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.1537196631254269,
+          "score": 0.1537196631254269,
+          "available": true
+        },
+        "overallScore": 0.1537196631254269,
+        "categories": {
+          "bnkr": {
+            "raw": 164724.27177369382,
+            "score": 0.3819787858551926,
+            "available": true
+          },
+          "deployer": {
+            "raw": 14.934681011004391,
+            "score": 0.06158063337630393,
+            "available": true
+          },
+          "developer": {
+            "raw": 7.467340505502196,
+            "score": 0.04864502535612591,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 1,
+            "score": 0.03571428571428571,
+            "available": true
+          },
+          "partner": {
+            "raw": 1610.8638555144837,
+            "score": 0.06848399974605601,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 28,
+        "accountId": "1757014010724077568",
+        "username": "@dos5se",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1757014010724077568",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.1517132982203494,
+          "score": 0.1517132982203494,
+          "available": true
+        },
+        "overallScore": 0.1517132982203494,
+        "categories": {
+          "bnkr": {
+            "raw": 32973.52642218333,
+            "score": 0.07646224477115054,
+            "available": true
+          },
+          "deployer": {
+            "raw": 4.050237896517615,
+            "score": 0.03986015765410539,
+            "available": true
+          },
+          "developer": {
+            "raw": 2.0251189482588074,
+            "score": 0.031487145770885405,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 1,
+            "score": 0.03571428571428571,
+            "available": true
+          },
+          "partner": {
+            "raw": 23521.754884172828,
+            "score": 1,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 21.97000845,
+            "score": 0.630611403909372,
+            "available": true
+          },
+          "social": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "og": {
+            "raw": 1,
+            "score": 0.5,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 29,
+        "accountId": "1082431986675798016",
+        "username": "@KarbonKrypto",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1082431986675798016",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.1486157268107025,
+          "score": 0.1486157268107025,
+          "available": true
+        },
+        "overallScore": 0.1486157268107025,
+        "categories": {
+          "bnkr": {
+            "raw": 165599.4631886368,
+            "score": 0.3840082654848254,
+            "available": true
+          },
+          "deployer": {
+            "raw": 7.873443432620729,
+            "score": 0.049747020158017775,
+            "available": true
+          },
+          "developer": {
+            "raw": 3.9367217163103647,
+            "score": 0.03929717712045602,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 3,
+            "score": 0.10714285714285714,
+            "available": true
+          },
+          "partner": {
+            "raw": 157.207973525593,
+            "score": 0.0066835138066749485,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 30,
+        "accountId": "1306607632397074434",
+        "username": "@d474l355",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1306607632397074434",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.14351075787466724,
+          "score": 0.14351075787466724,
+          "available": true
+        },
+        "overallScore": 0.14351075787466724,
+        "categories": {
+          "bnkr": {
+            "raw": 102715.98645567018,
+            "score": 0.23818789648776653,
+            "available": true
+          },
+          "deployer": {
+            "raw": 63.61334132294591,
+            "score": 0.099822452810357,
+            "available": true
+          },
+          "developer": {
+            "raw": 31.806670661472953,
+            "score": 0.07885378051241387,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 1,
+            "score": 0.03571428571428571,
+            "available": true
+          },
+          "partner": {
+            "raw": 969.9214089206496,
+            "score": 0.04123507849209347,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 12.8817425,
+            "score": 0.5287905488738592,
+            "available": true
+          },
+          "social": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 31,
+        "accountId": "1455208361084002310",
+        "username": "@CutterDegen",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1455208361084002310",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.14284721773598058,
+          "score": 0.14284721773598058,
+          "available": true
+        },
+        "overallScore": 0.14284721773598058,
+        "categories": {
+          "bnkr": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "deployer": {
+            "raw": 24540.442931976795,
+            "score": 0.7266740197926314,
+            "available": true
+          },
+          "developer": {
+            "raw": 453.92922907936287,
+            "score": 0.19126954810801755,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 16.464070721179507,
+            "score": 0.0006999507818295373,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "og": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 32,
+        "accountId": "1433913495079165952",
+        "username": "@HeresMyEth",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1433913495079165952",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.140760835788381,
+          "score": 0.140760835788381,
+          "available": true
+        },
+        "overallScore": 0.140760835788381,
+        "categories": {
+          "bnkr": {
+            "raw": 17862.885613727096,
+            "score": 0.04142220988523031,
+            "available": true
+          },
+          "deployer": {
+            "raw": 132.2884740832038,
+            "score": 0.12741469044922946,
+            "available": true
+          },
+          "developer": {
+            "raw": 76.96509792253408,
+            "score": 0.10586385982139879,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 1,
+            "score": 0.03571428571428571,
+            "available": true
+          },
+          "partner": {
+            "raw": 3041.7793533418176,
+            "score": 0.12931770475121102,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 2.702048,
+            "score": 0.26157161957717207,
+            "available": true
+          },
+          "social": {
+            "raw": 0.7685566879233038,
+            "score": 0.5018879901513363,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 33,
+        "accountId": "2511088279",
+        "username": "@tylerbroqs",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2511088279",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.13894972839403846,
+          "score": 0.13894972839403846,
+          "available": true
+        },
+        "overallScore": 0.13894972839403846,
+        "categories": {
+          "bnkr": {
+            "raw": 6.655895888188579e-16,
+            "score": 1.543434372344186e-21,
+            "available": true
+          },
+          "deployer": {
+            "raw": 3364.642983742281,
+            "score": 0.3747070210368435,
+            "available": true
+          },
+          "developer": {
+            "raw": 1688.6305393481884,
+            "score": 0.2963657385396482,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 1.153442630223684,
+            "score": 0.00004903726936631779,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 2.2173730000000003,
+            "score": 0.23320152277237685,
+            "available": true
+          },
+          "social": {
+            "raw": 0.30846921128268756,
+            "score": 0.23666280021343855,
+            "available": true
+          },
+          "og": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 34,
+        "accountId": "1214706569817903104",
+        "username": "@lightsnack",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1214706569817903104",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.1388151664657299,
+          "score": 0.1388151664657299,
+          "available": true
+        },
+        "overallScore": 0.1388151664657299,
+        "categories": {
+          "bnkr": {
+            "raw": 66541.50602053897,
+            "score": 0.15430296582898956,
+            "available": true
+          },
+          "deployer": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "developer": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 1,
+            "score": 0.03571428571428571,
+            "available": true
+          },
+          "partner": {
+            "raw": 21906.20552094712,
+            "score": 0.9313168013534241,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 35,
+        "accountId": "1639779124280455168",
+        "username": "@panzonhl",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1639779124280455168",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.13724739442783948,
+          "score": 0.13724739442783948,
+          "available": true
+        },
+        "overallScore": 0.13724739442783948,
+        "categories": {
+          "bnkr": {
+            "raw": 35.41215788078459,
+            "score": 0.00008211718240526276,
+            "available": true
+          },
+          "deployer": {
+            "raw": 6748.485082171995,
+            "score": 0.4725498161351772,
+            "available": true
+          },
+          "developer": {
+            "raw": 54.12451577520315,
+            "score": 0.09414150212803504,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 7.858162887180636,
+            "score": 0.0003340806383654728,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0.7246996721451611,
+            "score": 0.4797841052835713,
+            "available": true
+          },
+          "og": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 36,
+        "accountId": "1052847943185661952",
+        "username": "@apex_ether",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1052847943185661952",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.13353468139624444,
+          "score": 0.13353468139624444,
+          "available": true
+        },
+        "overallScore": 0.13353468139624444,
+        "categories": {
+          "bnkr": {
+            "raw": 0.03612440019123374,
+            "score": 8.376879968091132e-8,
+            "available": true
+          },
+          "deployer": {
+            "raw": 724.1827914466847,
+            "score": 0.22455784643322843,
+            "available": true
+          },
+          "developer": {
+            "raw": 1234.715140488294,
+            "score": 0.2669963802534237,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 1,
+            "score": 0.03571428571428571,
+            "available": true
+          },
+          "partner": {
+            "raw": 1.007092295948282,
+            "score": 0.00004281535544041946,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0.077964,
+            "score": 0.01211950040717047,
+            "available": true
+          },
+          "social": {
+            "raw": 0.5167071407252772,
+            "score": 0.3666617341390211,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 37,
+        "accountId": "2056269437582376960",
+        "username": "@0xCR33P",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2056269437582376960",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.13130541570049975,
+          "score": 0.13130541570049975,
+          "available": true
+        },
+        "overallScore": 0.13130541570049975,
+        "categories": {
+          "bnkr": {
+            "raw": 120.8343037123413,
+            "score": 0.0002802024263012634,
+            "available": true
+          },
+          "deployer": {
+            "raw": 5155.071870835013,
+            "score": 0.43197347086392046,
+            "available": true
+          },
+          "developer": {
+            "raw": 2591.195962281145,
+            "score": 0.3418350060092075,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 16.51463325103605,
+            "score": 0.0007021003888680224,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0.225365,
+            "score": 0.03803183459020445,
+            "available": true
+          },
+          "social": {
+            "raw": 0.10650322283568046,
+            "score": 0.0890857534354531,
+            "available": true
+          },
+          "og": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 38,
+        "accountId": "1394096609072402434",
+        "username": "@frenchie",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1394096609072402434",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.1302378515125869,
+          "score": 0.1302378515125869,
+          "available": true
+        },
+        "overallScore": 0.1302378515125869,
+        "categories": {
+          "bnkr": {
+            "raw": 113414.69947100028,
+            "score": 0.2629971207982156,
+            "available": true
+          },
+          "deployer": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "developer": {
+            "raw": 7.421290153534383,
+            "score": 0.04854482273617032,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 5,
+            "score": 0.17857142857142858,
+            "available": true
+          },
+          "partner": {
+            "raw": 286.21118883470143,
+            "score": 0.012167935183581283,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0.6497649999999999,
+            "score": 0.0981589698008771,
+            "available": true
+          },
+          "social": {
+            "raw": 0.19563416564704258,
+            "score": 0.15728060269561753,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 39,
+        "accountId": "1749759735379939328",
+        "username": "@dealignai",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1749759735379939328",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.12932131430091834,
+          "score": 0.12932131430091834,
+          "available": true
+        },
+        "overallScore": 0.12932131430091834,
+        "categories": {
+          "bnkr": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "deployer": {
+            "raw": 6376.79150529333,
+            "score": 0.46370976368303524,
+            "available": true
+          },
+          "developer": {
+            "raw": 3213.927793686426,
+            "score": 0.3672782023734979,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 16.61799663437006,
+            "score": 0.0007064947626655132,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "og": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 40,
+        "accountId": "1377317636233555969",
+        "username": "@cryptoji",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1377317636233555969",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.12910421513512854,
+          "score": 0.12910421513512854,
+          "available": true
+        },
+        "overallScore": 0.12910421513512854,
+        "categories": {
+          "bnkr": {
+            "raw": 2.19888429620592e-17,
+            "score": 5.098988416562677e-23,
+            "available": true
+          },
+          "deployer": {
+            "raw": 2904.22001331363,
+            "score": 0.356770282623648,
+            "available": true
+          },
+          "developer": {
+            "raw": 729.024389353665,
+            "score": 0.22399094822497226,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 1.853771147589604,
+            "score": 0.00007881092021909291,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0.3936688679933741,
+            "score": 0.29219072735383816,
+            "available": true
+          },
+          "og": {
+            "raw": 1,
+            "score": 0.5,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 41,
+        "accountId": "1388656475271155715",
+        "username": "@acbcrypto",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1388656475271155715",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.12550061094540482,
+          "score": 0.12550061094540482,
+          "available": true
+        },
+        "overallScore": 0.12550061094540482,
+        "categories": {
+          "bnkr": {
+            "raw": 20744.95532547783,
+            "score": 0.048105435601699255,
+            "available": true
+          },
+          "deployer": {
+            "raw": 111.37082118401108,
+            "score": 0.12031025346781683,
+            "available": true
+          },
+          "developer": {
+            "raw": 60.49696906449093,
+            "score": 0.09769994545610172,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 7,
+            "score": 0.25,
+            "available": true
+          },
+          "partner": {
+            "raw": 2654.669849267091,
+            "score": 0.11286019526771572,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0.5909561019131363,
+            "score": 0.4087320972107787,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 42,
+        "accountId": "221838349",
+        "username": "@Austen",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/221838349",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.12433885685072718,
+          "score": 0.12433885685072718,
+          "available": true
+        },
+        "overallScore": 0.12433885685072718,
+        "categories": {
+          "bnkr": {
+            "raw": 3.6880168998317893,
+            "score": 0.000008552135046294692,
+            "available": true
+          },
+          "deployer": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "developer": {
+            "raw": 26497.509070665394,
+            "score": 0.7419673570102855,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 8.913249039839934,
+            "score": 0.00037893639669876104,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "og": {
+            "raw": 1,
+            "score": 0.5,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 43,
+        "accountId": "32609740",
+        "username": "@eviszen",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/32609740",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.11971027527704381,
+          "score": 0.11971027527704381,
+          "available": true
+        },
+        "overallScore": 0.11971027527704381,
+        "categories": {
+          "bnkr": {
+            "raw": 6288.236356175717,
+            "score": 0.01458177876665576,
+            "available": true
+          },
+          "deployer": {
+            "raw": 130.2832741009425,
+            "score": 0.12676763530294577,
+            "available": true
+          },
+          "developer": {
+            "raw": 59.111324082350755,
+            "score": 0.09694825835617722,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 1,
+            "score": 0.03571428571428571,
+            "available": true
+          },
+          "partner": {
+            "raw": 0.10183361378065284,
+            "score": 0.0000043293374275052074,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 90.8077945,
+            "score": 0.9107333609912,
+            "available": true
+          },
+          "social": {
+            "raw": 0.26437586451482714,
+            "score": 0.2064883668246218,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 44,
+        "accountId": "1771956177087176704",
+        "username": "@dabusthebuilder",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1771956177087176704",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.11710733629051803,
+          "score": 0.11710733629051803,
+          "available": true
+        },
+        "overallScore": 0.11710733629051803,
+        "categories": {
+          "bnkr": {
+            "raw": 144.30812554964498,
+            "score": 0.0003346358250241485,
+            "available": true
+          },
+          "deployer": {
+            "raw": 2314.8276089303026,
+            "score": 0.3307895025547208,
+            "available": true
+          },
+          "developer": {
+            "raw": 9.853552129838,
+            "score": 0.05335568769563342,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 79.39480988083764,
+            "score": 0.003375377826688447,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 31.267097,
+            "score": 0.6993240240593952,
+            "available": true
+          },
+          "social": {
+            "raw": 0.2081322006145187,
+            "score": 0.16643417394253165,
+            "available": true
+          },
+          "og": {
+            "raw": 1,
+            "score": 0.5,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 45,
+        "accountId": "145621088",
+        "username": "@mattrenggana",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/145621088",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.11520244978502445,
+          "score": 0.11520244978502445,
+          "available": true
+        },
+        "overallScore": 0.11520244978502445,
+        "categories": {
+          "bnkr": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "deployer": {
+            "raw": 510.6196808955828,
+            "score": 0.1998686524632558,
+            "available": true
+          },
+          "developer": {
+            "raw": 247.46635445967203,
+            "score": 0.15625065114586179,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 0.4735497358295026,
+            "score": 0.00002013241521142378,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0.41046499999999997,
+            "score": 0.06647465280709325,
+            "available": true
+          },
+          "social": {
+            "raw": 0.5437686737802435,
+            "score": 0.3822289853811588,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 46,
+        "accountId": "1460254014491086854",
+        "username": "@MeltedMindz",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1460254014491086854",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.1139662175246477,
+          "score": 0.1139662175246477,
+          "available": true
+        },
+        "overallScore": 0.1139662175246477,
+        "categories": {
+          "bnkr": {
+            "raw": 24.51924209810272,
+            "score": 0.00005685762168425327,
+            "available": true
+          },
+          "deployer": {
+            "raw": 620.1675704075844,
+            "score": 0.21324647059248664,
+            "available": true
+          },
+          "developer": {
+            "raw": 130.14306732550307,
+            "score": 0.1261217907410221,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 1,
+            "score": 0.03571428571428571,
+            "available": true
+          },
+          "partner": {
+            "raw": 52.36416319196011,
+            "score": 0.0022262013803738163,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0.5936406079789491,
+            "score": 0.41021614272959817,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 47,
+        "accountId": "1754942575537004544",
+        "username": "@0xKreative",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1754942575537004544",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.11315909115840263,
+          "score": 0.11315909115840263,
+          "available": true
+        },
+        "overallScore": 0.11315909115840263,
+        "categories": {
+          "bnkr": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "deployer": {
+            "raw": 669.8681350695099,
+            "score": 0.218797291176925,
+            "available": true
+          },
+          "developer": {
+            "raw": 334.93406753475494,
+            "score": 0.17283680263751125,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 1.0821426904127258,
+            "score": 0.00004600603550804244,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0.46657889276535813,
+            "score": 0.33707713558679053,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 48,
+        "accountId": "1303705681552269315",
+        "username": "@bigba_daboom",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1303705681552269315",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.11185083680553486,
+          "score": 0.11185083680553486,
+          "available": true
+        },
+        "overallScore": 0.11185083680553486,
+        "categories": {
+          "bnkr": {
+            "raw": 135859.75164072128,
+            "score": 0.31504490758719117,
+            "available": true
+          },
+          "deployer": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "developer": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 1,
+            "score": 0.03571428571428571,
+            "available": true
+          },
+          "partner": {
+            "raw": 114.68174655240549,
+            "score": 0.004875560820913572,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 49,
+        "accountId": "1396460088169205760",
+        "username": "@vipernft",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/1396460088169205760",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.1087504576424091,
+          "score": 0.1087504576424091,
+          "available": true
+        },
+        "overallScore": 0.1087504576424091,
+        "categories": {
+          "bnkr": {
+            "raw": 3208.312225284304,
+            "score": 0.007439748831563395,
+            "available": true
+          },
+          "deployer": {
+            "raw": 217.71908685113252,
+            "score": 0.15043342236798693,
+            "available": true
+          },
+          "developer": {
+            "raw": 273.49615551431765,
+            "score": 0.16154748118397835,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 5,
+            "score": 0.17857142857142858,
+            "available": true
+          },
+          "partner": {
+            "raw": 567.0624487645013,
+            "score": 0.024107999235467872,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0.17433625,
+            "score": 0.029431974364439093,
+            "available": true
+          },
+          "social": {
+            "raw": 0.406203474776892,
+            "score": 0.3000722940819931,
+            "available": true
+          },
+          "og": {
+            "raw": 2,
+            "score": 1,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      },
+      {
+        "rank": 50,
+        "accountId": "2044884323447304195",
+        "username": "@VeniceKernel",
+        "profileUrl": "https://bankr.bot/terminal/leaderboard/profile/x/2044884323447304195",
+        "collectedAt": "2026-08-06T00:53:45.702Z",
+        "overall": {
+          "raw": 0.10875020579169327,
+          "score": 0.10875020579169327,
+          "available": true
+        },
+        "overallScore": 0.10875020579169327,
+        "categories": {
+          "bnkr": {
+            "raw": 4.661151479441839,
+            "score": 0.000010808734885472204,
+            "available": true
+          },
+          "deployer": {
+            "raw": 3809.668707090241,
+            "score": 0.390548137770293,
+            "available": true
+          },
+          "developer": {
+            "raw": 1904.8343535451204,
+            "score": 0.30850972169334856,
+            "available": true
+          },
+          "pnl": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "referral": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "nft": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "partner": {
+            "raw": 1.382354457220091,
+            "score": 0.000058769188949853443,
+            "available": true
+          },
+          "llmUsage": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "social": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          },
+          "og": {
+            "raw": 0,
+            "score": 0,
+            "available": true
+          }
+        },
+        "fetchStatus": {
+          "profile": "success",
+          "scores": "success",
+          "complete": true,
+          "errors": []
+        }
+      }
+    ],
+    "captureStatus": {
+      "status": "success",
+      "requested": 50,
+      "completeUsers": 50,
+      "partialUsers": 0,
+      "failedUsers": 0,
+      "profileSuccess": 50,
+      "scoresSuccess": 50,
+      "startedAt": "2026-08-06T00:53:55.733Z",
+      "completedAt": "2026-08-06T00:54:18.758Z",
+      "durationMs": 23025,
+      "rateLimit": {
+        "limit": 120,
+        "remainingFloor": 6,
+        "startRemaining": 119,
+        "minRemaining": 97,
+        "endRemaining": 98,
+        "resetValues": [
+          60,
+          57,
+          54,
+          49,
+          53,
+          59,
+          58,
+          51,
+          48,
+          50,
+          55,
+          46,
+          45,
+          47,
+          43,
+          52,
+          42,
+          41,
+          40,
+          38,
+          37,
+          36,
+          39,
+          34,
+          44,
+          32,
+          30,
+          33
+        ],
+        "samples": [
+          {
+            "stage": "leaderboard",
+            "status": 200,
+            "at": "2026-08-06T00:53:48.564Z",
+            "limit": 120,
+            "remaining": 119,
+            "reset": 60,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "leaderboard",
+            "status": 200,
+            "at": "2026-08-06T00:53:52.119Z",
+            "limit": 120,
+            "remaining": 119,
+            "reset": 60,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "leaderboard",
+            "status": 200,
+            "at": "2026-08-06T00:53:55.732Z",
+            "limit": 120,
+            "remaining": 118,
+            "reset": 57,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:53:55.809Z",
+            "limit": 120,
+            "remaining": 117,
+            "reset": 54,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:53:55.929Z",
+            "limit": 120,
+            "remaining": 119,
+            "reset": 60,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:53:56.000Z",
+            "limit": 120,
+            "remaining": 119,
+            "reset": 60,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:53:57.176Z",
+            "limit": 120,
+            "remaining": 118,
+            "reset": 60,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:53:57.177Z",
+            "limit": 120,
+            "remaining": 119,
+            "reset": 60,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:53:57.250Z",
+            "limit": 120,
+            "remaining": 117,
+            "reset": 60,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:53:57.253Z",
+            "limit": 120,
+            "remaining": 118,
+            "reset": 49,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:53:57.258Z",
+            "limit": 120,
+            "remaining": 116,
+            "reset": 53,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:53:57.321Z",
+            "limit": 120,
+            "remaining": 117,
+            "reset": 49,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:53:58.507Z",
+            "limit": 120,
+            "remaining": 118,
+            "reset": 59,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:53:58.510Z",
+            "limit": 120,
+            "remaining": 118,
+            "reset": 59,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:53:58.570Z",
+            "limit": 120,
+            "remaining": 117,
+            "reset": 59,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:53:58.578Z",
+            "limit": 120,
+            "remaining": 116,
+            "reset": 58,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:53:58.580Z",
+            "limit": 120,
+            "remaining": 117,
+            "reset": 58,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:53:58.646Z",
+            "limit": 120,
+            "remaining": 115,
+            "reset": 51,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:53:59.821Z",
+            "limit": 120,
+            "remaining": 116,
+            "reset": 48,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:53:59.824Z",
+            "limit": 120,
+            "remaining": 114,
+            "reset": 51,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:53:59.884Z",
+            "limit": 120,
+            "remaining": 115,
+            "reset": 58,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:53:59.898Z",
+            "limit": 120,
+            "remaining": 114,
+            "reset": 57,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:53:59.904Z",
+            "limit": 120,
+            "remaining": 116,
+            "reset": 57,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:00.014Z",
+            "limit": 120,
+            "remaining": 115,
+            "reset": 57,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:01.159Z",
+            "limit": 120,
+            "remaining": 113,
+            "reset": 50,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:01.221Z",
+            "limit": 120,
+            "remaining": 114,
+            "reset": 57,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:01.246Z",
+            "limit": 120,
+            "remaining": 116,
+            "reset": 55,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:01.264Z",
+            "limit": 120,
+            "remaining": 115,
+            "reset": 46,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:01.296Z",
+            "limit": 120,
+            "remaining": 114,
+            "reset": 45,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:01.342Z",
+            "limit": 120,
+            "remaining": 113,
+            "reset": 55,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:02.506Z",
+            "limit": 120,
+            "remaining": 113,
+            "reset": 45,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:02.540Z",
+            "limit": 120,
+            "remaining": 112,
+            "reset": 55,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:02.583Z",
+            "limit": 120,
+            "remaining": 112,
+            "reset": 48,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:02.615Z",
+            "limit": 120,
+            "remaining": 115,
+            "reset": 55,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:02.618Z",
+            "limit": 120,
+            "remaining": 111,
+            "reset": 54,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:02.705Z",
+            "limit": 120,
+            "remaining": 113,
+            "reset": 54,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:03.853Z",
+            "limit": 120,
+            "remaining": 111,
+            "reset": 47,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:03.880Z",
+            "limit": 120,
+            "remaining": 110,
+            "reset": 54,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:03.928Z",
+            "limit": 120,
+            "remaining": 112,
+            "reset": 43,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:03.953Z",
+            "limit": 120,
+            "remaining": 111,
+            "reset": 43,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:04.000Z",
+            "limit": 120,
+            "remaining": 112,
+            "reset": 54,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:04.083Z",
+            "limit": 120,
+            "remaining": 113,
+            "reset": 52,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:05.181Z",
+            "limit": 120,
+            "remaining": 110,
+            "reset": 46,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:05.225Z",
+            "limit": 120,
+            "remaining": 114,
+            "reset": 52,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:05.259Z",
+            "limit": 120,
+            "remaining": 109,
+            "reset": 51,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:05.304Z",
+            "limit": 120,
+            "remaining": 111,
+            "reset": 51,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:05.346Z",
+            "limit": 120,
+            "remaining": 110,
+            "reset": 42,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:05.421Z",
+            "limit": 120,
+            "remaining": 109,
+            "reset": 41,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:06.508Z",
+            "limit": 120,
+            "remaining": 109,
+            "reset": 45,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:06.551Z",
+            "limit": 120,
+            "remaining": 108,
+            "reset": 45,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:06.586Z",
+            "limit": 120,
+            "remaining": 108,
+            "reset": 50,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:06.622Z",
+            "limit": 120,
+            "remaining": 110,
+            "reset": 50,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:06.708Z",
+            "limit": 120,
+            "remaining": 112,
+            "reset": 51,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:06.781Z",
+            "limit": 120,
+            "remaining": 108,
+            "reset": 40,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:07.857Z",
+            "limit": 120,
+            "remaining": 107,
+            "reset": 43,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:07.865Z",
+            "limit": 120,
+            "remaining": 111,
+            "reset": 50,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:07.927Z",
+            "limit": 120,
+            "remaining": 107,
+            "reset": 49,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:07.939Z",
+            "limit": 120,
+            "remaining": 109,
+            "reset": 49,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:08.014Z",
+            "limit": 120,
+            "remaining": 106,
+            "reset": 43,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:08.092Z",
+            "limit": 120,
+            "remaining": 107,
+            "reset": 38,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:09.164Z",
+            "limit": 120,
+            "remaining": 105,
+            "reset": 42,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:09.169Z",
+            "limit": 120,
+            "remaining": 106,
+            "reset": 48,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:09.245Z",
+            "limit": 120,
+            "remaining": 105,
+            "reset": 47,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:09.246Z",
+            "limit": 120,
+            "remaining": 106,
+            "reset": 37,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:09.353Z",
+            "limit": 120,
+            "remaining": 110,
+            "reset": 48,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:09.431Z",
+            "limit": 120,
+            "remaining": 109,
+            "reset": 47,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:10.504Z",
+            "limit": 120,
+            "remaining": 103,
+            "reset": 41,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:10.510Z",
+            "limit": 120,
+            "remaining": 104,
+            "reset": 41,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:10.575Z",
+            "limit": 120,
+            "remaining": 103,
+            "reset": 46,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:10.584Z",
+            "limit": 120,
+            "remaining": 108,
+            "reset": 46,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:10.735Z",
+            "limit": 120,
+            "remaining": 104,
+            "reset": 47,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:10.810Z",
+            "limit": 120,
+            "remaining": 105,
+            "reset": 36,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:11.826Z",
+            "limit": 120,
+            "remaining": 102,
+            "reset": 39,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:11.859Z",
+            "limit": 120,
+            "remaining": 107,
+            "reset": 46,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:11.901Z",
+            "limit": 120,
+            "remaining": 108,
+            "reset": 45,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:11.937Z",
+            "limit": 120,
+            "remaining": 106,
+            "reset": 45,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:12.080Z",
+            "limit": 120,
+            "remaining": 101,
+            "reset": 39,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:12.154Z",
+            "limit": 120,
+            "remaining": 103,
+            "reset": 34,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:13.152Z",
+            "limit": 120,
+            "remaining": 104,
+            "reset": 34,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:13.210Z",
+            "limit": 120,
+            "remaining": 102,
+            "reset": 44,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:13.222Z",
+            "limit": 120,
+            "remaining": 107,
+            "reset": 43,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:13.283Z",
+            "limit": 120,
+            "remaining": 101,
+            "reset": 43,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:13.406Z",
+            "limit": 120,
+            "remaining": 105,
+            "reset": 44,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:13.489Z",
+            "limit": 120,
+            "remaining": 100,
+            "reset": 37,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:14.527Z",
+            "limit": 120,
+            "remaining": 100,
+            "reset": 43,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:14.528Z",
+            "limit": 120,
+            "remaining": 104,
+            "reset": 43,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:14.603Z",
+            "limit": 120,
+            "remaining": 102,
+            "reset": 42,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:14.608Z",
+            "limit": 120,
+            "remaining": 103,
+            "reset": 42,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:14.740Z",
+            "limit": 120,
+            "remaining": 99,
+            "reset": 37,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:14.814Z",
+            "limit": 120,
+            "remaining": 106,
+            "reset": 42,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:15.918Z",
+            "limit": 120,
+            "remaining": 101,
+            "reset": 32,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:15.919Z",
+            "limit": 120,
+            "remaining": 102,
+            "reset": 32,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:15.993Z",
+            "limit": 120,
+            "remaining": 100,
+            "reset": 41,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:16.085Z",
+            "limit": 120,
+            "remaining": 101,
+            "reset": 42,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:16.120Z",
+            "limit": 120,
+            "remaining": 99,
+            "reset": 40,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:16.162Z",
+            "limit": 120,
+            "remaining": 100,
+            "reset": 30,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:17.263Z",
+            "limit": 120,
+            "remaining": 99,
+            "reset": 40,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:17.341Z",
+            "limit": 120,
+            "remaining": 98,
+            "reset": 33,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:17.363Z",
+            "limit": 120,
+            "remaining": 99,
+            "reset": 30,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "profile",
+            "status": 200,
+            "at": "2026-08-06T00:54:17.442Z",
+            "limit": 120,
+            "remaining": 97,
+            "reset": 39,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:17.444Z",
+            "limit": 120,
+            "remaining": 105,
+            "reset": 40,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:18.602Z",
+            "limit": 120,
+            "remaining": 98,
+            "reset": 39,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          },
+          {
+            "stage": "scores",
+            "status": 200,
+            "at": "2026-08-06T00:54:18.758Z",
+            "limit": 120,
+            "remaining": 98,
+            "reset": 39,
+            "retryAfter": null,
+            "cacheControl": null,
+            "hasEtag": true
+          }
+        ]
+      }
+    }
+  },
+  "failedProfiles": [],
+  "validation": {
+    "ok": true,
+    "expectedCount": 50,
+    "actualCount": 50,
+    "errors": []
+  },
+  "retryCount": 0
+}
